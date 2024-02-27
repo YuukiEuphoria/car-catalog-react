@@ -1,0 +1,7 @@
+// Base
+@import '../scss/base/base';
+@import '../scss/base/reset';
+
+//Blocks
+@import '../../components/screens/home/home.module';
+@import '../../components/screens/home/add-car-form/addCarForm.module'
